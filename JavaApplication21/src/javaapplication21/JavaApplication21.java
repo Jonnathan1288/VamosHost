@@ -16,6 +16,11 @@ public class JavaApplication21 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int num1 = 100;
+        for (int i = 1; i <= num1; i++) {
+            
+            System.out.println(""+i);
+        }
     }
     
 }
